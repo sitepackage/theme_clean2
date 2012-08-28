@@ -1,0 +1,118 @@
+body,
+#collection .buy a{
+	color: #2b2b2b;
+}
+a{
+	color:#0a1b25;
+}
+a:hover,
+.topic1,
+.topic1 a,
+.topic1 a:hover,
+.topic3,
+#header .site_name,
+#header .nav li a,
+#footer .nav a,
+#cart .summary .total_price,
+#main .comment_form a,
+#product .details a,
+#product .description a ,
+#product .details a:hover,
+#product .description a:hover,
+#pagination a:hover,
+#blog .topic2 a:hover,
+#blog .excert a,
+#blog .excert a:hover,
+#frontpage .welcome a:hover,
+#page a:hover,
+#article a:hover,
+#collection .price,
+#collection .buy a:hover {
+	color: #ed145b;
+}
+.topic2,
+.topic2 a,
+.topic2 a:hover,
+#footer .nav a:hover{
+    color: #000;
+}
+#header .site_slogan,
+#frontpage .column small {
+    color: #8f8f8f;
+}
+#header .account fieldset .button,
+#sidebar1 .sidebar li a:hover,
+#main .cart_status_wrapper .cart_status a{
+    color: #fff;
+}
+#header .nav li a:hover,
+#blog .author,
+#article .author{
+    color: #5d5d5d;
+}
+#main .highlight_wrapper h2 {
+    color: #494949;
+}
+#footer .copyright,
+#footer .copyright a,
+#cart tr .quantity {
+    color: #626262;
+}
+#pagination {
+	color: #737373;
+}
+#pagination .total ,
+#pagination .current,
+#frontpage .welcome a,
+#page a,
+#article a,
+#blog .topic2 a{
+	color: #779e38;
+}
+#pagination a {
+	color: #908465;
+}
+#product .related li {
+	color: #ff6b83;	
+}
+#product .related li .price {
+	color:#539bb4;
+}
+/*----------------------------			Background    ---------------------------------*/
+#header .account fieldset .button {
+    background-color: #f02064;
+}
+#sidebar1 .dbd span,
+#main .search_wrapper,
+#main .social_wrapper,
+#pagination .current,
+#pagination a{
+    background-color: #fff;
+}
+#cart .summary {
+    background-color: #ececec;
+}
+/*----------------------------			Border ---------------------------------*/
+#sidebar1 .sidebar li,
+#cart .items th,
+#cart .items td {
+    border-bottom: 1px solid #f675a8;
+}
+#sidebar1 .sidebar h2 {
+    border-bottom: 3px solid #ed145b;
+}
+#sidebar1 .dbd span {
+    border: 1px solid #d7d5d4;
+}
+#pagination .current {
+    border: 1px solid #fff;
+}
+#pagination a:hover {
+    border: 1px solid #779e38;
+}
+#blog .featured_image {
+    border:1px solid #eee;
+}
+#product .extra_images li span {
+    border: 1px solid #eaeaea;
+}
