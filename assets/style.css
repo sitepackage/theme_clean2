@@ -985,6 +985,7 @@ form .hint_area {
 /*------------------ product ------------------*/
 #product .image {
 	float: left;
+  width:242px;
 }
 #product .details a,
 #product .description a {
@@ -1041,6 +1042,7 @@ form .hint_area {
     height: 240px;
     background: #fff no-repeat center center;
     border:1px solid #eaeaea;
+    margin:0 0 15px 0;
     display: block;
 }
 #product .all{
@@ -1094,6 +1096,7 @@ form .hint_area {
 }
 #product .extra_images {
 	padding: 0 0 10px 0;
+  width:242px;  
 }
 #product .extra_images ul {
 	padding: 0;
@@ -1106,10 +1109,13 @@ form .hint_area {
     display: block;
 	float: left;
 	text-align: left;
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
     background: #fff no-repeat center center;
-    margin: 5px 10px 5px 0;
+    margin: 0 11px 10px 0;
+}
+#product .extra_images .last span {
+  margin: 0 0px 10px 0;
 }
 #product .buy {
     float: left;
